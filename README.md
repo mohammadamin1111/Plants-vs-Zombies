@@ -16,4 +16,4 @@ This project is the fifth assignment for the Advanced Programming course at the 
 
 To configure the game, refer to the `settings.txt` file in the `files` folder.
 
-![Settings Diagram](./settings_diagram.png)
+![Settings Diagram](./settings_diagram.jpeg)
